@@ -10,6 +10,7 @@ function in another member function.
 -> secuity from attact
 normal users can not assess that function even programmer can not directly access  that
 data */
+ //It calculates student scores, averages, and results.
 #include <iostream>
 using namespace std;
 class Score
